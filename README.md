@@ -9,7 +9,7 @@ Tired of running javac and java in terminal, why not use this tool for your wind
 		You will have to create a new registry key for the alias to be persistent. Will be uploading a batch file to do the same.
 	</li>
 	<li>
-		After that, you can just type in ```jcr``` and it will work like magic.
+		After that, you can just type in "jcr" and it will work like magic.
 	</li>
 </ul>
 <hr />
